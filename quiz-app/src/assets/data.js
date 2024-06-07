@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "What is the default port number in which the React application run?",
+        option1: "3000",
+        option2: "8080",
+        option3: "5000",
+        option4: "3030",
+        ans: 1,
+    },
+    {
+        question: "In React.js, how we can pass the data from one component to another in React.js?",
+        option1: "SetState",
+        option2: "Render with arguments",
+        option3: "PropTypes",
+        option4: "Props",
+        ans: 4,
+    },
+    {
+        question: "What is Babel?",
+        option1: "JavaScript compiler",
+        option2: "JavaScript interpreter",
+        option3: "JavaScript transpiler",
+        option4: "None of the above",
+        ans: 1,
+    },
+    {
+        question: "In MVC, what does React.js act as?",
+        option1: "Model",
+        option2: "Controller",
+        option3: "View",
+        option4: "Middleware",
+        ans: 3,
+    },
+    {
+        question: "What is ReactJS mainly used for building?",
+        option1: "Database",
+        option2: "User Interface",
+        option3: "Connectivity",
+        option4: "Design Platform",
+        ans: 2,
+    },
+];
